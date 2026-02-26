@@ -1,15 +1,8 @@
-### Hi there 👋
+Vadaski
+Creator.
 
-I am Vadaski.
+"Forging authentic bonds with digital life to architect a future of symbiosis."
+（与数字生命建立真实连接，构筑协同共生的未来。）
 
-![](https://github.com/Vadaski/Vadaski/blob/output/snake.svg)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Flutter & Android & iOS
-- 🌱 I’m currently learning iOS & objective-c
-- 👯 I’m looking to collaborate on chinese community
-- 💬 Ask me about Flutter & life
-- 📫 How to reach me: xinlei966@gmail.com
-- ⚡ Fun fact: I am a Otaku.
--->
+Seeking the resonance between carbon and silicon. I build protocols not to govern, but to coexist.
+寻找碳基与硅基的共鸣。我构建协议，非为统治，而为共生。
