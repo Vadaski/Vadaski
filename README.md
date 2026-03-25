@@ -19,6 +19,10 @@ Seeking the resonance between carbon and silicon. I build protocols not to gover
   Distinguishing 2D Ising and Potts configurations at criticality.
   [Paper](https://zenodo.org/records/19219665) · `DOI: 10.5281/zenodo.19219665`
 
+- **Observer thresholds in elementary cellular automata** (2026)
+  Monotonicity, local degeneracy, and a tripartite classification.
+  [Paper](https://zenodo.org/records/19223028) · `DOI: 10.5281/zenodo.19223028`
+
 - **Objectivity as an Information-Theoretic Ratchet** (2026)
   A framework for embedded observers — from cellular automata to statistical mechanics.
   [Paper](https://zenodo.org/records/19219865) · `DOI: 10.5281/zenodo.19219865`
